@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LiveTV</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mpegts.js@1.7.3/dist/mpegts.js"></script>
+
+    <style>
+        :root {
+            --bg: #0f0f0f;
+            --card: #1a1a1a;
+            --accent: #ff0055;
+            --text: #fff;
+            --hover: #2a2a2a;
+        }
+
+        * { box-sizing: border-box; }
+
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            font-family: "Inter", sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            overflow: hidden;
+        }
+
+        .app-container {
+            display: flex;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        .player-section {
+            flex: 2;
+            display: flex;
+            flex-direction: column;
+            background: #000;
+            padding: 20px;
+            gap: 15px;
+            min-width: 0;
+        }
+
+        .video-container {
+            position: relative;
+            width: 100%;
+            padding-top: 56.25%;
+            background: #000;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,.5);
+        }
+
+        #video {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            background: #000;
+            object-fit: contain;
+        }
+
+        .sidebar {
+            flex: 1;
+            min-width: 350px;
+            background: var(--card);
+            display: flex;
+            flex-direction: column;
+            border-left: 1px solid rgba(255,255,255,.1);
+            min-height: 0;
+        }
+
+        .search-container {
+            padding: 20px;
+            border-bottom: 1px solid rgba(255,255,255,.08);
+            flex-shrink: 0;
+        }
+
+        #channel-search {
+            width: 100%;
+            padding: 12px 14px;
+            border-radius: 10px;
+            border: 1px solid rgba(255,255,255,.1);
+            background: rgba(255,255,255,.05);
+            color: #fff;
+            font-size: 14px;
+            outline: none;
+            margin-bottom: 15px;
+        }
+
+        #channel-search::placeholder { color: #888; }
+
+        #channel-search:focus {
+            border-color: rgba(255,0,85,.5);
+        }
+
+        .category-tabs {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 8px;
+            overflow-x: auto;
+            overflow-y: hidden;
+            padding-bottom: 4px;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+            -webkit-overflow-scrolling: touch;
+            scroll-behavior: smooth;
+        }
+
+        .category-tabs::-webkit-scrollbar { display: none; }
+
+        .cat-tab {
+            flex: 0 0 auto;
+            white-space: nowrap;
+            padding: 7px 14px;
+            border-radius: 20px;
+            background: rgba(255,255,255,.08);
+            color: #fff;
+            font-size: 14px;
+            font-weight: 600;
+            border: none;
+            cursor: pointer;
+            transition: .2s ease;
+        }
+
+        .cat-tab:hover { background: rgba(255,255,255,.14); }
+        .cat-tab.active { background: var(--accent); }
+
+        .channel-list {
+            list-style: none;
+            margin: 0;
+            padding: 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+            gap: 15px;
+            overflow-y: auto;
+            align-content: start;
+            min-height: 0;
+            scrollbar-width: thin;
+        }
+
+        .channel-item {
+            background: rgba(255,255,255,.04);
+            border-radius: 12px;
+            cursor: pointer;
+            padding: 10px;
+            text-align: center;
+            transition: .2s ease;
+            border: 2px solid transparent;
+            height: 140px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .channel-item:hover {
+            background: var(--hover);
+            transform: translateY(-1px);
+        }
+
+        .channel-item.active {
+            border-color: var(--accent);
+            background: rgba(255,0,85,.08);
+        }
+
+        .logo-wrapper {
+            width: 90px;
+            height: 90px;
+            min-width: 60px;
+            min-height: 60px;
+            margin-bottom: 10px;
+            background: #fff;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            padding: 8px;
+        }
+
+        .channel-logo {
+            max-width: 100%;
+            max-height: 100%;
+            width: auto;
+            height: auto;
+            object-fit: contain;
+        }
+
+        .channel-name {
+            width: 100%;
+            font-size: .75rem;
+            font-weight: 600;
+            color: #ddd;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            line-height: 1.2;
+            word-break: break-word;
+        }
+
+        @media (max-width: 992px) {
+            html, body {
+                height: auto;
+                overflow-x: hidden;
+                overflow-y: auto;
+            }
+
+            .app-container {
+                flex-direction: column;
+                width: 100%;
+                height: auto;
+            }
+
+            .player-section {
+                flex: none;
+                width: 100%;
+                padding: 10px;
+                gap: 10px;
+            }
+
+            .video-container { border-radius: 12px; }
+
+            .sidebar {
+                width: 100%;
+                min-width: 100%;
+                height: auto;
+                border-left: none;
+                border-top: 1px solid rgba(255,255,255,.1);
+            }
+
+            .search-container { padding: 15px; }
+
+            .channel-list {
+                overflow-y: visible;
+                grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+                gap: 10px;
+                padding: 15px;
+            }
+
+            .channel-item { height: 130px; }
+
+            .logo-wrapper {
+                width: 75px;
+                height: 75px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .player-section { padding: 8px; }
+            .search-container { padding: 12px; }
+
+            .channel-list {
+                padding: 12px;
+                grid-template-columns: repeat(3, minmax(0, 1fr));
+                gap: 8px;
+            }
+
+            .channel-item {
+                height: 120px;
+                padding: 7px;
+                border-radius: 10px;
+            }
+
+            .logo-wrapper {
+                width: 65px;
+                height: 65px;
+                margin-bottom: 7px;
+                padding: 6px;
+            }
+
+            .channel-name { font-size: .68rem; }
+
+            .cat-tab {
+                font-size: 13px;
+                padding: 7px 12px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<div class="app-container">
+
+    <main class="player-section">
+        <div class="video-container">
+            <video id="video" controls autoplay playsinline></video>
+        </div>
+    </main>
+
+    <aside class="sidebar">
+        <div class="search-container">
+            <input
+                id="channel-search"
+                type="search"
+                placeholder="Search channels..."
+                autocomplete="off"
+            >
+
+            <div class="category-tabs">
+                <button class="cat-tab active" data-type="all">All</button>
+                <button class="cat-tab" data-type="Sports">Sports</button>
+                <button class="cat-tab" data-type="News">News</button>
+                <button class="cat-tab" data-type="Bangla">Bangla</button>
+                <button class="cat-tab" data-type="Indian Bangla">Indian Bangla</button>
+                <button class="cat-tab" data-type="Hindi">Hindi</button>
+                <button class="cat-tab" data-type="Kids">Kids</button>
+                <button class="cat-tab" data-type="Documentary">Doc</button>
+                <button class="cat-tab" data-type="Music">Music</button>
+                <button class="cat-tab" data-type="Other">Other</button>
+            </div>
+        </div>
+
+        <ul class="channel-list" id="listbar"></ul>
+    </aside>
+</div>
+
+<script>
+    let player = null;
+
+    const video = document.getElementById("video");
+    const listBar = document.getElementById("listbar");
+    const search = document.getElementById("channel-search");
+    const tabs = document.querySelectorAll(".cat-tab");
+
+    let items = [];
+    let activeCategory = "all";
+
+    function destroyPlayer() {
+        if (!player) return;
+
+        try { player.pause(); } catch (e) {}
+        try { player.unload(); } catch (e) {}
+        try { player.detachMediaElement(); } catch (e) {}
+        try { player.destroy(); } catch (e) {}
+
+        player = null;
+    }
+
+    function loadStream(url) {
+        destroyPlayer();
+
+        if (!mpegts.isSupported()) {
+            console.error("MPEGTS.js is not supported in this browser.");
+            return;
+        }
+
+        player = mpegts.createPlayer({
+            type: "mpegts",
+            isLive: true,
+            url: url
+        });
+
+        player.attachMediaElement(video);
+
+        player.on(
+            mpegts.Events.ERROR,
+            (errorType, errorDetail, errorInfo) => {
+                console.error(
+                    "MPEGTS Error:",
+                    errorType,
+                    errorDetail,
+                    errorInfo
+                );
+            }
+        );
+
+        player.load();
+
+        player.play().catch(error => {
+            console.warn("Autoplay blocked:", error);
+        });
+    }
+
+    fetch("tv_channels.json")
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status}`);
+            }
+
+            return response.json();
+        })
+        .then(data => {
+            const categoryCount = {};
+
+            if (!data.channels || !Array.isArray(data.channels)) {
+                throw new Error("Invalid channel data");
+            }
+
+            data.channels.forEach(ch => {
+                if (ch.status === "hidden") return;
+
+                categoryCount[ch.category] =
+                    (categoryCount[ch.category] || 0) + 1;
+
+                const li = document.createElement("li");
+
+                li.className = "channel-item";
+                li.dataset.name = String(ch.name || "").toLowerCase();
+                li.dataset.category = ch.category || "Other";
+
+                li.innerHTML = `
+                    <div class="logo-wrapper">
+                        <img
+                            src="${ch.logo || ""}"
+                            class="channel-logo"
+                            loading="lazy"
+                            alt="${ch.name || "Channel"}"
+                        >
+                    </div>
+                    <div class="channel-name">
+                        ${ch.name || "Unknown Channel"}
+                    </div>
+                `;
+
+                li.onclick = () => {
+                    if (!ch.url) {
+                        console.error("Channel URL missing:", ch.name);
+                        return;
+                    }
+
+                    loadStream(ch.url);
+
+                    document
+                        .querySelectorAll(".channel-item")
+                        .forEach(item => item.classList.remove("active"));
+
+                    li.classList.add("active");
+
+                    if (window.innerWidth < 992) {
+                        window.scrollTo({
+                            top: 0,
+                            behavior: "smooth"
+                        });
+                    }
+                };
+
+                listBar.appendChild(li);
+                items.push(li);
+            });
+
+            tabs.forEach(tab => {
+                const category = tab.dataset.type;
+
+                if (category === "all") return;
+
+                if (!categoryCount[category]) {
+                    tab.style.display = "none";
+                }
+            });
+
+            if (items.length > 0) {
+                items[0].click();
+            }
+        })
+        .catch(error => {
+            console.error("Failed to load channels:", error);
+        });
+
+    function filterChannels() {
+        const query = search.value.trim().toLowerCase();
+
+        items.forEach(item => {
+            const matchName =
+                item.dataset.name.includes(query);
+
+            const matchCategory =
+                activeCategory === "all" ||
+                item.dataset.category === activeCategory;
+
+            item.style.display =
+                matchName && matchCategory ? "flex" : "none";
+        });
+    }
+
+    search.addEventListener("input", filterChannels);
+
+    tabs.forEach(tab => {
+        tab.onclick = () => {
+            tabs.forEach(t => t.classList.remove("active"));
+
+            tab.classList.add("active");
+
+            activeCategory = tab.dataset.type;
+
+            filterChannels();
+        };
+    });
+</script>
+</body>
+</html>
