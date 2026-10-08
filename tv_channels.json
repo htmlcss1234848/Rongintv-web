@@ -687,20 +687,6 @@
             "status": "visible"
         },
         {
-            "name": "Sony Ten 1 (FHD)",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9402",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Sony Ten 3 (FHD)",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9404",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "EUROSPORTS 4K",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23308",
@@ -743,13 +729,6 @@
             "status": "visible"
         },
         {
-            "name": "SONY ESPN HD",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/155",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "SONY SPORTS 5 ᴴᴰ",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/176",
@@ -761,20 +740,6 @@
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/29469",
             "logo": "img/channels/SONY SPORTS4 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "Sony Ten 2",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9403",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "SONY TEN 5 (FHD)",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/17565",
-            "logo": "",
             "status": "visible"
         }
     ]
