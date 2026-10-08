@@ -449,13 +449,6 @@
             "status": "visible"
         },
         {
-            "name": "DISNEY JR HD",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/49",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "Sony Yay Hindi",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/204",
@@ -466,14 +459,7 @@
             "name": " Nick_Hindi",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/205",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Nick_Junior",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/206",
-            "logo": "",
+            "logo": "img/channels/NICK.png",
             "status": "visible"
         },
         {
@@ -494,14 +480,7 @@
             "name": "Pogo Hindi",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1918",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Nick+ FHD",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/7438",
-            "logo": "",
+            "logo": "img/channels/POGO.png",
             "status": "visible"
         },
         {
@@ -509,13 +488,6 @@
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/18456",
             "logo": "img/channels/HUNGAMA.png",
-            "status": "visible"
-        },
-        {
-            "name": "Nick Pakistan",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/18457",
-            "logo": "",
             "status": "visible"
         },
         {
@@ -544,20 +516,6 @@
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/66162",
             "logo": "img/channels/SUPER HUNGAMA.png",
-            "status": "visible"
-        },
-        {
-            "name": "NICK 4K",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98880",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "CN HD + 4K",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/117177",
-            "logo": "",
             "status": "visible"
         },
         {
