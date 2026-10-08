@@ -1,24 +1,535 @@
 {
     "channels": [
         {
+            "name": "Colors Bengla HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/183",
+            "logo": "img/channels/COLORS HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "Star Jalsa HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/198",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BOISAKHI HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/390",
+            "logo": "img/channels/boishakhi-tv.jpg*",
+            "status": "visible"
+        },
+        {
+            "name": "CHANNEL 24 HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/391",
+            "logo": "img/channels/CHANNEL 24.png",
+            "status": "visible"
+        },
+        {
+            "name": "Channel I UK",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/392",
+            "logo": "img/channels/CHANNEL I.png",
+            "status": "visible"
+        },
+        {
+            "name": "Channel S",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/393",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "DESH TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/394",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Aakaash Aath",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/396",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "MOHONA TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/397",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "MY TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/398",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "AnandaTV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/399",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "RTV HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/401",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "DHOOM MUSIC",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/404",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Sangeet Bangali",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/405",
+            "logo": "img/channels/SANGEET BANGLA.png",
+            "status": "visible"
+        },
+        {
+            "name": "Discovery_Channel_Bengali",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/406",
+            "logo": "img/channels/DISCOVERY HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "Bijoy Tv",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/408",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Rupashi bangla",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/409",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "ZEE CINMEA Bangali",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/410",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Nexus TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/411",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Songsad TV FHD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/413",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "DESHITV HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/414",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "DBC HD",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/420",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Jamuna TV",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/421",
+            "logo": "img/channels/JAMUNA TV.png",
+            "status": "visible"
+        },
+        {
+            "name": "Somoy TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/422",
+            "logo": "img/channels/SOMOY TV.png",
+            "status": "visible"
+        },
+        {
+            "name": "Independent TV",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/423",
+            "logo": "img/channels/INDEPENDENT TV.png",
+            "status": "visible"
+        },
+        {
+            "name": "NTV Bangla HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/424",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "STAR JALSHA MOVIES FHD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/425",
+            "logo": "img/channels/JALSHA MOVIES HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BANGLA VISION",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/426",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "ATN NEWS HD",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/427",
+            "logo": "img/channels/ATN NEWS.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD:Ekattor tv",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/428",
+            "logo": "img/channels/EKATTOR_TV.png",
+            "status": "visible"
+        },
+        {
+            "name": "BOISAKHI HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/429",
+            "logo": "img/channels/boishakhi-tv.jpg",
+            "status": "visible"
+        },
+        {
+            "name": "ASIAN TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/430",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "ATN BANGLA",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/431",
+            "logo": "img/channels/ATN BANGLA.png",
+            "status": "visible"
+        },
+        {
+            "name": "Duronto TV HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/433",
+            "logo": "img/channels/DURANTA TV.png",
+            "status": "visible"
+        },
+        {
+            "name": "Channel 9 HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/434",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "ZEE BANGLA HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/435",
+            "logo": "img/channels/ZEE BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "Gazi TV HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/767",
+            "logo": "img/channels/images__4_.png",
+            "status": "visible"
+        },
+        {
+            "name": "BTV NEWS",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/998",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "iTV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/999",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "NRB TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1000",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Deepto",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1034",
+            "logo": "img/channels/DEEPTO.png",
+            "status": "visible"
+        },
+        {
+            "name": "TIMES24 TV FHD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1035",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Maasranga TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1036",
+            "logo": "img/channels/images__7_.jpg",
+            "status": "visible"
+        },
+        {
+            "name": "DEEPTO TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1331",
+            "logo": "img/channels/DEEPTO.png",
+            "status": "visible"
+        },
+        {
+            "name": "TIME TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2882",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "DESHE BIDESHE",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2883",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "TV9 Bangla",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2885",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "SUN Bangla 4K",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3753",
+            "logo": "img/channels/SUN BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "RTV Music",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3799",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "ATN Bangla uk",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3800",
+            "logo": "img/channels/ATN BANGLA.png",
+            "status": "visible"
+        },
+        {
+            "name": "Enter 10 Bangla HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3801",
+            "logo": "img/channels/ENTERR 10 BANGLA.png",
+            "status": "visible"
+        },
+        {
+            "name": "Bangla Tv",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3803",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Tv9 bangla",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3804",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KHUSHBOO TV HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3808",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "News 24 Tv",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3810",
+            "logo": "img/channels/images__10_.jpg",
+            "status": "visible"
+        },
+        {
+            "name": "News 18 Bangla",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3811",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "ETV TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3813",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "SA Tv",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3814",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Sristy_TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3817",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BTv Chattogram",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3818",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Calcutta News",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3819",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "DD Bangla",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4049",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "SONY AATH",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4083",
+            "logo": "img/channels/SONY AATH.png",
+            "status": "visible"
+        },
+        {
+            "name": "GlobalTv_HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4231",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "ABP Ananda",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/5436",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Star Jalsa (HD)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/8540",
+            "logo": "img/channels/STAR JALSHA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "Travelxp HD (BANGLA)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/20622",
+            "logo": "img/channels/TRAVEL XP.png",
+            "status": "visible"
+        },
+        {
+            "name": "Star Jalsha (FHD)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23218",
+            "logo": "img/channels/STAR JALSHA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "JALSHA MOVIES (FHD)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23304",
+            "logo": "img/channels/JALSHA MOVIES HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "ZEE BANGLA (FHD)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23305",
+            "logo": "img/channels/ZEE BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "COLORS BANGLA (FHD)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23306",
+            "logo": "img/channels/COLORS BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CHANNEL I",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/34665",
+            "logo": "img/channels/CHANNEL I.png",
+            "status": "visible"
+        },
+        {
+            "name": "ZEE BANGLA CINEMA",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/49615",
+            "logo": "img/channels/ZEE BANGLA CINEMA.png",
+            "status": "visible"
+        },
+        {
+            "name": "Zee24Ghanta",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/144510",
+            "logo": "",
+            "status": "visible"
+        },
+        {
             "name": "Unite8 Sports 2 HD",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/745202",
-            "logo": "",
+            "logo": "img/channels/images__9_.png",
             "status": "visible"
         },
         {
             "name": "Unite8 Sports 1 HD",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/741567",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Star 4K",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/333368",
-            "logo": "",
+            "logo": "img/channels/images__11_.jpg",
             "status": "visible"
         },
         {
@@ -141,20 +652,6 @@
             "status": "visible"
         },
         {
-            "name": "Hub Sports 4 FHD",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/196347",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "FAST SPORTS ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/87460",
-            "logo": "img/channels/FAST SPORTS HD.png",
-            "status": "visible"
-        },
-        {
             "name": "TEN CRICKET",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/514856",
@@ -211,42 +708,14 @@
             "status": "visible"
         },
         {
-            "name": "UK: Cbeebies",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/26",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "USA: Nickelodeon",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/37",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "USA: NICK JR",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/38",
-            "logo": "img/channels/NICK JR.png",
-            "status": "visible"
-        },
-        {
-            "name": "USA: Boomerang",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/45",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "USA: DISNEY JR HD",
+            "name": "DISNEY JR HD",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/49",
             "logo": "",
             "status": "visible"
         },
         {
-            "name": "Sony_Yay_Hindi",
+            "name": "Sony Yay Hindi",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/204",
             "logo": "img/channels/SONY YAY.png",
@@ -267,86 +736,23 @@
             "status": "visible"
         },
         {
-            "name": "sonic_Hindi",
+            "name": "Sonic Hindi",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/207",
             "logo": "img/channels/SONIC.png",
             "status": "visible"
         },
         {
-            "name": "Discovery_Kids_1",
+            "name": "Discovery Kids",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/208",
             "logo": "img/channels/DISCOVERY KIDS.png",
             "status": "visible"
         },
         {
-            "name": "UK:Nickelodeon",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/269",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "UK : NICK JR",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/561",
-            "logo": "img/channels/NICK JR.png",
-            "status": "visible"
-        },
-        {
-            "name": "US: Cartoon Network",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/951",
-            "logo": "img/channels/CARTOON NETWORK.png",
-            "status": "visible"
-        },
-        {
-            "name": "UK : CARTOON NETWORK HD",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1066",
-            "logo": "img/channels/CARTOON NETWORK.png",
-            "status": "visible"
-        },
-        {
-            "name": "UK : BOOMERANG",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1067",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "UK : DISNEY JR",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1068",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "UK : BABY TV",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1069",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "PT : Baby TV",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1653",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Pogo_Hindi",
+            "name": "Pogo Hindi",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1918",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "POGO (ENGLISH)",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/7220",
             "logo": "",
             "status": "visible"
         },
@@ -358,21 +764,14 @@
             "status": "visible"
         },
         {
-            "name": "Kids: PAW Patrol FHD",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/18455",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Kids: Hungama",
+            "name": "Hungama",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/18456",
             "logo": "img/channels/HUNGAMA.png",
             "status": "visible"
         },
         {
-            "name": "Kids: Nick Pakistan",
+            "name": "Nick Pakistan",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/18457",
             "logo": "",
@@ -421,570 +820,10 @@
             "status": "visible"
         },
         {
-            "name": "Malayalam: Nicklodean Sonic",
+            "name": "Nicklodean Sonic",
             "category": "Kids",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/127762",
             "logo": "img/channels/SONIC.png",
-            "status": "visible"
-        },
-        {
-            "name": "UK : TINY POP",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/144123",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "SHEMAROO JOSH",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/784654",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "MOTU PATTLO 24x7",
-            "category": "Kids",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/784655",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Colors_Bengali_HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/183",
-            "logo": "img/channels/COLORS HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "Star Jalsa HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/198",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_BOISAKHI HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/390",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_CHANNEL 24 HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/391",
-            "logo": "img/channels/CHANNEL 24.png",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Channel I UK",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/392",
-            "logo": "img/channels/CHANNEL I.png",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Channel S",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/393",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_DESH TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/394",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Aakaash Aath",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/396",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_MOHONA TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/397",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_MY TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/398",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_AnandaTV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/399",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_RTV HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/401",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_BANGLA TIMES",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/402",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_RPlusGold",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/403",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_DHOOM MUSIC",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/404",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Sangeet Bangali",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/405",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Discovery_Channel_Bengali",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/406",
-            "logo": "img/channels/DISCOVERY HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Bijoy Tv",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/408",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Rupashi bangla",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/409",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_ZEE CINMEA Bangali",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/410",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Nexus TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/411",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Songsad TV FHD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/413",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_DESHITV HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/414",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_DBC HD",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/420",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Jamuna TV",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/421",
-            "logo": "img/channels/JAMUNA TV.png",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Somoy TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/422",
-            "logo": "img/channels/SOMOY TV.png",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Independent TV",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/423",
-            "logo": "img/channels/INDEPENDENT TV.png",
-            "status": "visible"
-        },
-        {
-            "name": "BD_NTV Bangla HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/424",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "STAR JALSHA MOVIES FHD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/425",
-            "logo": "img/channels/JALSHA MOVIES HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "BANGLA VISION",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/426",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "ATN NEWS HD",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/427",
-            "logo": "img/channels/ATN NEWS.png",
-            "status": "visible"
-        },
-        {
-            "name": "BD:Ekattor tv",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/428",
-            "logo": "img/channels/EKATTOR_TV.png",
-            "status": "visible"
-        },
-        {
-            "name": "BOISAKHI HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/429",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "ASIAN TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/430",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "ATN BANGLA",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/431",
-            "logo": "img/channels/ATN BANGLA.png",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Duronto TV HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/433",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD_Channel 9 HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/434",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "ZEE BANGLA HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/435",
-            "logo": "img/channels/ZEE BANGLA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "Gazi TV HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/767",
-            "logo": "img/channels/images__4_.png",
-            "status": "visible"
-        },
-        {
-            "name": "BTV NEWS",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/998",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "iTV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/999",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "NRB TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1000",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Deepto",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1034",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "TIMES24 TV FHD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1035",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Maasranga TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1036",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BD:DEEPTO TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1331",
-            "logo": "img/channels/DEEPTO.png",
-            "status": "visible"
-        },
-        {
-            "name": "TIME TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2882",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "DESHE BIDESHE",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2883",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "TV9Bangla",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2885",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "SUN Bangla 4K",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3753",
-            "logo": "img/channels/SUN BANGLA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "RTV Music",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3799",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "ATN Bangla uk",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3800",
-            "logo": "img/channels/ATN BANGLA.png",
-            "status": "visible"
-        },
-        {
-            "name": "enter 10 bangla HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3801",
-            "logo": "img/channels/ENTERR 10 BANGLA.png",
-            "status": "visible"
-        },
-        {
-            "name": "Bangla Tv",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3803",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Tv9 bangla",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3804",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "KHUSHBOO TV HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3808",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "News 24 Tv",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3810",
-            "logo": "img/channels/images__10_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "News 18 Bangla",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3811",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "ETV TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3813",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "SA Tv",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3814",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Sristy_TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3817",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "BTv Chattogram",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3818",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "calcutta News",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3819",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "DD Bangla",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4049",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "SONY Aath",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4083",
-            "logo": "img/channels/SONY AATH.png",
-            "status": "visible"
-        },
-        {
-            "name": "GlobalTv_HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4231",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "ABP Ananda",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/5436",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Star Jalsa (HD)",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/8540",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Travelxp HD (BANGLA)",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/20622",
-            "logo": "img/channels/TRAVEL XP.png",
-            "status": "visible"
-        },
-        {
-            "name": "Star Jalsha (FHD)",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23218",
-            "logo": "img/channels/STAR JALSHA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "JALSHA MOVIES (FHD)",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23304",
-            "logo": "img/channels/JALSHA MOVIES HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ZEE BANGLA (FHD)",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23305",
-            "logo": "img/channels/ZEE BANGLA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "COLORS BANGLA (FHD)",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23306",
-            "logo": "img/channels/COLORS BANGLA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "CHANNEL I",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/34665",
-            "logo": "img/channels/CHANNEL I.png",
-            "status": "visible"
-        },
-        {
-            "name": "ZEE BANGLA CINEMA",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/49615",
-            "logo": "img/channels/ZEE BANGLA CINEMA.png",
-            "status": "visible"
-        },
-        {
-            "name": "Zee24Ghanta",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/144510",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "TNT SPORTS 1 ᶠᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/186627",
-            "logo": "img/channels/T SPORTS.png",
             "status": "visible"
         },
         {
