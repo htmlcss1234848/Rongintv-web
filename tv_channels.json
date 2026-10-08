@@ -4,7 +4,7 @@
             "name": "BOISAKHI HD",
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/390",
-            "logo": "img/channels/boishakhi-tv.jpg*",
+            "logo": "img/channels/boishakhi-tv.jpg",
             "status": "visible"
         },
         {
@@ -109,7 +109,7 @@
             "name": "ZEE CINMEA Bangali",
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/410",
-            "logo": "",
+            "logo": "img/channels/ZEE BANGLA CINEMA.png",
             "status": "visible"
         },
         {
@@ -253,13 +253,6 @@
             "status": "visible"
         },
         {
-            "name": "TIMES24 TV FHD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1035",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "Maasranga TV",
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1036",
@@ -334,13 +327,6 @@
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4083",
             "logo": "img/channels/SONY AATH.png",
-            "status": "visible"
-        },
-        {
-            "name": "GlobalTv_HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4231",
-            "logo": "",
             "status": "visible"
         },
         {
@@ -571,7 +557,7 @@
             "name": "ASTRO CRICKET ᴴᴰ",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2494",
-            "logo": "",
+            "logo": "img/channels/willow-circbuzz.png",
             "status": "visible"
         },
         {
@@ -606,7 +592,7 @@
             "name": "WILLOW SPORTS Cricbuzz ᴴᴰ",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23943",
-            "logo": "img/channels/willow.jpeg",
+            "logo": "img/channels/willow-circbuzz.png",
             "status": "visible"
         },
         {
