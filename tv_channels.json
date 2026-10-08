@@ -1,20 +1,6 @@
 {
     "channels": [
         {
-            "name": "Colors Bengla HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/183",
-            "logo": "img/channels/COLORS HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "Star Jalsa HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/198",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "BOISAKHI HD",
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/390",
@@ -127,13 +113,6 @@
             "status": "visible"
         },
         {
-            "name": "Nexus TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/411",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "Songsad TV FHD",
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/413",
@@ -204,7 +183,7 @@
             "status": "visible"
         },
         {
-            "name": "BD:Ekattor tv",
+            "name": "Ekattor tv",
             "category": "News",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/428",
             "logo": "img/channels/EKATTOR_TV.png",
@@ -267,20 +246,6 @@
             "status": "visible"
         },
         {
-            "name": "iTV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/999",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "NRB TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1000",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "Deepto",
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1034",
@@ -306,27 +271,6 @@
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1331",
             "logo": "img/channels/DEEPTO.png",
-            "status": "visible"
-        },
-        {
-            "name": "TIME TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2882",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "DESHE BIDESHE",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2883",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "TV9 Bangla",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2885",
-            "logo": "",
             "status": "visible"
         },
         {
@@ -365,38 +309,10 @@
             "status": "visible"
         },
         {
-            "name": "Tv9 bangla",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3804",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "KHUSHBOO TV HD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3808",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "News 24 Tv",
             "category": "News",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3810",
             "logo": "img/channels/images__10_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "News 18 Bangla",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3811",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "ETV TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3813",
-            "logo": "",
             "status": "visible"
         },
         {
@@ -407,30 +323,9 @@
             "status": "visible"
         },
         {
-            "name": "Sristy_TV",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3817",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "BTv Chattogram",
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3818",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Calcutta News",
-            "category": "News",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3819",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "DD Bangla",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4049",
             "logo": "",
             "status": "visible"
         },
@@ -445,13 +340,6 @@
             "name": "GlobalTv_HD",
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4231",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "ABP Ananda",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/5436",
             "logo": "",
             "status": "visible"
         },
@@ -512,90 +400,6 @@
             "status": "visible"
         },
         {
-            "name": "Zee24Ghanta",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/144510",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Unite8 Sports 2 HD",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/745202",
-            "logo": "img/channels/images__9_.png",
-            "status": "visible"
-        },
-        {
-            "name": "Unite8 Sports 1 HD",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/741567",
-            "logo": "img/channels/images__11_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "TEN 1 4K",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98861",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "TEN 2 4K",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98862",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "TEN 3 4K",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98863",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 1 4K",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98864",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 2 4K",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98865",
-            "logo": "img/channels/STAR SPORTS2 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 1 HINDI 4K",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98866",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS SELECT 1 4K",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98867",
-            "logo": "img/channels/STAR 4K.png",
-            "status": "visible"
-        },
-        {
-            "name": "START SPORTS SELECT 2 4K",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98868",
-            "logo": "img/channels/T SPORTS.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY TEN 5 4K",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98870",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "ZEE BANGLA 4K",
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98881",
@@ -624,55 +428,6 @@
             "status": "visible"
         },
         {
-            "name": "STAR SPORTS 2 TAMIL ⁴ᵏ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/379753",
-            "logo": "img/channels/STAR SPORTS2 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 2 TELUGU ⁴ᵏ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/379755",
-            "logo": "img/channels/STAR SPORTS2 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 1 KANNADA ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/380977",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS FIRST",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/394272",
-            "logo": "img/channels/STAR 4K.png",
-            "status": "visible"
-        },
-        {
-            "name": "TEN CRICKET",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/514856",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS KHEL",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/612020",
-            "logo": "img/channels/STAR 4K.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY SPORTS 4 TELUGU",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/635098",
-            "logo": "img/channels/SONY SPORTS4 HD.png",
-            "status": "visible"
-        },
-        {
             "name": "Nagorik Tv HD",
             "category": "News",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3802",
@@ -684,20 +439,6 @@
             "category": "Bangla",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/271038",
             "logo": "img/channels/COLORS BANGLA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "24 Ghanta SD",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/355540",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "Republic Bangla",
-            "category": "Bangla",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/376278",
-            "logo": "",
             "status": "visible"
         },
         {
@@ -834,20 +575,6 @@
             "status": "visible"
         },
         {
-            "name": "SONY ESPN HD",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/155",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "SONY SPORTS 5 ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/176",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "EUROSPORTS ᴴᴰ",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/216",
@@ -859,6 +586,20 @@
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1039",
             "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Unite8 Sports 2 HD",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/745202",
+            "logo": "img/channels/images__9_.png",
+            "status": "visible"
+        },
+        {
+            "name": "Unite8 Sports 1 HD",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/741567",
+            "logo": "img/channels/images__11_.jpg",
             "status": "visible"
         },
         {
@@ -897,13 +638,6 @@
             "status": "visible"
         },
         {
-            "name": "STAR SPORTS 1 TAMIL ⁴ᵏ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9722",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
-            "status": "visible"
-        },
-        {
             "name": "T SPORTS ᴴᴰ",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/18452",
@@ -911,31 +645,10 @@
             "status": "visible"
         },
         {
-            "name": "SKY SPORTS CRIC ⁴ᵏ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23566",
-            "logo": "",
-            "status": "visible"
-        },
-        {
             "name": "WILLOW SPORTS Cricbuzz ᴴᴰ",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23943",
             "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "SKY SPORT 3 ᶠᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/24018",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "SONY SPORTS 2 ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/31314",
-            "logo": "img/channels/SONY SPORTS2 HD.png",
             "status": "visible"
         },
         {
@@ -953,52 +666,10 @@
             "status": "visible"
         },
         {
-            "name": "SKY SPORTS CRIC ⁴ᵏ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/114479",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "SKY SPORTS CRIC ⁴ᵏ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/124269",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 1 ENG ⁴ᵏ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/124281",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 2 ENGLISH ⁴ᵏ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/124284",
-            "logo": "img/channels/STAR SPORTS2 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 1 HINDI ⁴ᵏ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/124287",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
-            "status": "visible"
-        },
-        {
             "name": "T SPORTS ᴴᴰ",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/130714",
             "logo": "img/channels/T SPORTS.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 1 TELUGU ⁴ᵏ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/177843",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
             "status": "visible"
         },
         {
@@ -1044,13 +715,6 @@
             "status": "visible"
         },
         {
-            "name": "TNT SPORTS 3 ᶠᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/148090",
-            "logo": "img/channels/T SPORTS.png",
-            "status": "visible"
-        },
-        {
             "name": "T SPORTS ᴴᴰ",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/113069",
@@ -1065,10 +729,31 @@
             "status": "visible"
         },
         {
+            "name": "SONY SPORTS 2 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/31314",
+            "logo": "img/channels/SONY SPORTS2 HD.png",
+            "status": "visible"
+        },
+        {
             "name": "SONY SPORTS 3 ᴴᴰ",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/146",
             "logo": "img/channels/SONY SPORTS3 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "SONY ESPN HD",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/155",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "SONY SPORTS 5 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/176",
+            "logo": "",
             "status": "visible"
         },
         {
@@ -1079,7 +764,7 @@
             "status": "visible"
         },
         {
-            "name": "Sony Ten 2 4K",
+            "name": "Sony Ten 2",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9403",
             "logo": "",
@@ -1089,62 +774,6 @@
             "name": "SONY TEN 5 (FHD)",
             "category": "Sports",
             "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/17565",
-            "logo": "",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS SELECT 1 ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/238",
-            "logo": "img/channels/STAR 4K.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS SELECT 2 ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/148801",
-            "logo": "img/channels/STAR 4K.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 1 HINDI ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/211",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 1 ENG ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/148",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 2 ENGLISH ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/239",
-            "logo": "img/channels/STAR SPORTS2 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "A SPORTS ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/43444",
-            "logo": "img/channels/A SPORTS HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR SPORTS 2 HINDI ᶠᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/213049",
-            "logo": "img/channels/STAR SPORTS2 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "WILLOW SPORTS ᴴᴰ",
-            "category": "Sports",
-            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/215",
             "logo": "",
             "status": "visible"
         }
