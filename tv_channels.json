@@ -1,927 +1,1802 @@
 {
     "channels": [
         {
-            "name": "SHOMOY TV HD",
+            "name": "Unite8 Sports 2 HD",
             "category": "Sports",
-            "url": "http://198.195.239.50:8095/somoyTv/index.m3u8",
-            "logo": "img/channels/SOMOY TV.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/745202",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "BTV",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/btv/index.m3u8",
-            "logo": "img/channels/BTV.HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR JALSHA HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/starJalsha/index.m3u8",
-            "logo": "img/channels/STAR JALSHA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "JALSHA MOVIES HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/jalshaMovies/index.m3u8",
-            "logo": "img/channels/JALSHA MOVIES HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ZEE BANGLA  HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/zeeBangla/index.m3u8",
-            "logo": "img/channels/ZEE BANGLA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "COLOR BANGLA HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/colorsBangla/index.m3u8",
-            "logo": "img/channels/COLORS BANGLA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "COLOR BANGLA CHINEMA HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8",
-            "logo": "img/channels/COLORS BANGLA CINEMA.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY AATH",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/sonyAath/index.m3u8",
-            "logo": "img/channels/SONY AATH.png",
-            "status": "visible"
-        },
-        {
-            "name": "SANGEET BANGLA",
-            "category": "Music",
-            "url": "http://198.195.239.50:8095/sangeetBangla/index.m3u8",
-            "logo": "img/channels/SANGEET BANGLA.png",
-            "status": "visible"
-        },
-        {
-            "name": "ENTER 10 BANGLA",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/enter10Bangla/index.m3u8",
-            "logo": "img/channels/ENTERR 10 BANGLA.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY MAX HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/sonyMax/index.m3u8",
-            "logo": "img/channels/SONY MAX HD.png",
-            "status": "hidden"
-        },
-        {
-            "name": "SONY ENTERTAINMENT HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/sonyEntertainment/index.m3u8",
-            "logo": "img/channels/SONY ENTERTAINMENT HD.png",
-            "status": "hidden"
-        },
-        {
-            "name": "STAR GOLD HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/STARGOLD/video.m3u8",
-            "logo": "img/channels/STAR GOLD HD.png",
-            "status": "hidden"
-        },
-        {
-            "name": "STAR PLUS HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/starPlus/video.m3u8",
-            "logo": "img/channels/STAR PLUS HD.png",
-            "status": "hidden"
-        },
-        {
-            "name": "STAR MOVIES HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/STAR_PLUS/video.m3u8",
-            "logo": "img/channels/STAR MOVIES HD.png",
-            "status": "hidden"
-        },
-        {
-            "name": "ZEE TV HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/zeeTV/index.m3u8",
-            "logo": "img/channels/ZEE TV HD.png",
-            "status": "hidden"
-        },
-        {
-            "name": "ZEE CHINEMA HD",
-            "category": "Hindi",
-            "url": "http://103.151.61.12/Zee_Cinema_HD/video.m3u8",
-            "logo": "img/channels/ZEE CINEMA HD.png",
-            "status": "hidden"
-        },
-        {
-            "name": "COLOR HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/colors/index.m3u8",
-            "logo": "img/channels/COLORS HD.png",
-            "status": "hidden"
-        },
-        {
-            "name": "COLOR CINEPLEX HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/colorsCineplex/index.m3u8",
-            "logo": "img/channels/COLORS CINEPLEX HD.png",
-            "status": "hidden"
-        },
-        {
-            "name": "9XM MUSIC",
-            "category": "Music",
-            "url": "http://198.195.239.50:8095/9xm/index.m3u8",
-            "logo": "img/channels/9XM MUSIC.png",
-            "status": "hidden"
-        },
-        {
-            "name": "DISCOVERY HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/discovery/index.m3u8",
-            "logo": "img/channels/DISCOVERY HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "NATIONAL GEOGRAPHIC HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/nationalGeographic/index.m3u8",
-            "logo": "img/channels/NATGEO HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ANIMAL PLANET HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/animalPlanet/index.m3u8",
-            "logo": "img/channels/ANIMAL PLANET HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "TRAVEL XP",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/travelXp/index.m3u8",
-            "logo": "img/channels/TRAVEL XP.png",
-            "status": "visible"
-        },
-        {
-            "name": "CARTOON NETWORK HD",
+            "name": "KIDS-SPIDER MAN 1981",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/cartoonNetwork/index.m3u8",
-            "logo": "img/channels/CARTOON NETWORK.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147721",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "POGO",
+            "name": "KIDS-SPIDER MAN 1967",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/pogo/index.m3u8",
-            "logo": "img/channels/POGO.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147722",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "DURANTA",
+            "name": "KIDS-SLUGTERRA",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/duranta/index.m3u8",
-            "logo": "img/channels/DURANTA TV.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147723",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "NICK",
+            "name": "KIDS-SHINCHAN",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/nick/index.m3u8",
-            "logo": "img/channels/NICK.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147724",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "NICK JR",
+            "name": "KIDS-SHAPE RHYMES",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/nickJr/index.m3u8",
-            "logo": "img/channels/NICK JR.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147725",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "SONIC",
+            "name": "KIDS-SAMURAI JACK",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/sonic/index.m3u8",
-            "logo": "img/channels/SONIC.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147726",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "SONY YAY",
+            "name": "KIDS-POPEYE THE SAILOR MAN",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/sonyYay/index.m3u8",
-            "logo": "img/channels/SONY YAY.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147727",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "DISCOVERY KIDS HD",
+            "name": "KIDS-PEPPA PIG 2",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/disnepKids/index.m3u8",
-            "logo": "img/channels/DISCOVERY KIDS.png",
-            "status": "hidden"
-        },
-        {
-            "name": "SONY-SPORTS.5HD",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8",
-            "logo": "img/channels/SONY SPORTS1 HD.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147729",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "BTV.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/BTV.HD/index.m3u8",
-            "logo": "img/channels/BTV.HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ETV.BANGLA.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/ETV.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/images.jpeg",
-            "status": "visible"
-        },
-        {
-            "name": "DEEPTOTV.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/DEEPTOTV.HD/index.m3u8",
-            "logo": "img/channels/DEEPTO.png",
-            "status": "visible"
-        },
-        {
-            "name": "DBC.NEWS.HD",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8",
-            "logo": "img/channels/DBC NEWS.png",
-            "status": "visible"
-        },
-        {
-            "name": "BOISAKHI.TV.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8",
-            "logo": "img/channels/boishakhi-tv.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "EAKHON.TV.HD",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8",
-            "logo": "img/channels/images.png",
-            "status": "visible"
-        },
-        {
-            "name": "EKATTOR.TV.HD",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8",
-            "logo": "img/channels/EKATTOR_TV.png",
-            "status": "visible"
-        },
-        {
-            "name": "COLORS.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/COLORS.HD/index.m3u8",
-            "logo": "img/channels/COLORS HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ANT.PICTURS.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8",
-            "logo": "img/channels/images__1_.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY.BBC.EARTH.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8",
-            "logo": "img/channels/SONY BBC EARTH HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ZEE.TV.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/ZEE.TV.HD/index.m3u8",
-            "logo": "img/channels/ZEE TV HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "CARTON.NETWORK.HD",
+            "name": "KIDS-PEPPA PIG",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/CARTON.NETWORK.HD/index.m3u8",
-            "logo": "img/channels/images__2_.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147730",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "TLC.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/TLC.HD/index.m3u8",
-            "logo": "img/channels/TLC HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "COLORS.CINEPLEX.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/COLORS.CINEPLEX.HD/index.m3u8",
-            "logo": "img/channels/COLORS CINEPLEX HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY.ENT.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/SONY.ENT.HD/index.m3u8",
-            "logo": "img/channels/images.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "COLORS.BANGLA.HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/COLORS.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/COLORS BANGLA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ZEE.CINEMA.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/ZEE.CINEMA.HD/index.m3u8",
-            "logo": "img/channels/ZEE CINEMA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ZEE.BANGLA.HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/ZEE.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/ZEE BANGLA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "HISTORY.TV.18.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/HISTORY.TV.18.HD/index.m3u8",
-            "logo": "img/channels/HISTORY TV HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.SPORTS.SEL.2.HD",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/index.m3u8",
-            "logo": "img/channels/images__1_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "SUN.BANGLA.HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/SUN.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/SUN BANGLA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "JALSHA.MOVIES.HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8",
-            "logo": "img/channels/JALSHA MOVIES HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.GOLD.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8",
-            "logo": "img/channels/STAR GOLD HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY.MAX.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8",
-            "logo": "img/channels/SONY MAX HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "DISCOVERY.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8",
-            "logo": "img/channels/DISCOVERY HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "NATGEO.WILD.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8",
-            "logo": "img/channels/NATGEO WILD HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.PLUS.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/STAR.PLUS.HD/index.m3u8",
-            "logo": "img/channels/STAR PLUS HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "NATGEO.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/NATGEO.HD/index.m3u8",
-            "logo": "img/channels/NATGEO HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ANIMAL.PLANET.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8",
-            "logo": "img/channels/ANIMAL PLANET HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.MOVIES.SEL.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/index.m3u8",
-            "logo": "img/channels/images__3_.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.SPORTS-SEL1.HD",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/index.m3u8",
-            "logo": "img/channels/images__2_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.SPORTS2.HD",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8",
-            "logo": "img/channels/STAR SPORTS2 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY.SPORTS2.HD",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8",
-            "logo": "img/channels/SONY SPORTS2 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY.SPORTS.3",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/SONY.SPORTS.3/index.m3u8",
-            "logo": "img/channels/SONY SPORTS3 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.SPORTS1.HD",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8",
-            "logo": "img/channels/STAR SPORTS1 HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR-SPORTS.3",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8",
-            "logo": "img/channels/STAR SPORTS3.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY.PIX.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8",
-            "logo": "img/channels/SONY PIX HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.JALSHA.HD",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/STAR.JALSHA.HD/index.m3u8",
-            "logo": "img/channels/STAR JALSHA HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "MNX.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/MNX.HD/index.m3u8",
-            "logo": "img/channels/MNX HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ROMEDY.NOW",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/ROMEDY.NOW/index.m3u8",
-            "logo": "img/channels/ROMEDY NOW.png",
-            "status": "visible"
-        },
-        {
-            "name": "MN.PLUS.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/MN.PLUS.HD/index.m3u8",
-            "logo": "img/channels/MN PLUS.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.MOVIES.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8",
-            "logo": "img/channels/STAR MOVIES HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "MOVIES.NOW.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8",
-            "logo": "img/channels/MOVIES NOW HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "EUROSPORTS.HD",
-            "category": "Sports",
-            "url": "http://198.195.239.50:8095/EUROSPORTS.HD/index.m3u8",
-            "logo": "img/channels/EUROSPORTS HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "AND.PRIVE.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/AND.PRIVE.HD/index.m3u8",
-            "logo": "img/channels/images__3_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "ZOOM.MUSIC",
-            "category": "Music",
-            "url": "http://198.195.239.50:8095/ZOOM.MUSIC/index.m3u8",
-            "logo": "img/channels/ZOOM.png",
-            "status": "visible"
-        },
-        {
-            "name": "ZEE.BANGLA.CINEMA",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8",
-            "logo": "img/channels/ZEE BANGLA CINEMA.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY.AAT",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/SONY.AAT/index.m3u8",
-            "logo": "img/channels/SONY AATH.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONIC",
+            "name": "KIDS-FINGER FAMILY HD 3",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/SONIC/index.m3u8",
-            "logo": "img/channels/SONIC.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147731",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "NICK",
+            "name": "KIDS-NURSERY RHYMES HD 4",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/NICK/index.m3u8",
-            "logo": "img/channels/NICK.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147732",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "COLORS.BANGLA.CINEMA",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/COLORS.BANGLA.CINEMA/index.m3u8",
-            "logo": "img/channels/COLORS BANGLA CINEMA.png",
-            "status": "visible"
-        },
-        {
-            "name": "POGO",
+            "name": "KIDS-PAW PETROL UNBOXING TOY",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/POGO/index.m3u8",
-            "logo": "img/channels/POGO.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147733",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "HUNGAMA",
+            "name": "KIDS-PAW PETROL TOY STORY",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/HUNGAMA/index.m3u8",
-            "logo": "img/channels/HUNGAMA.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147734",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "ETV.BAL.BHARAT",
+            "name": "KIDS-PAW PETROL",
             "category": "Kids",
-            "url": "http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147735",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-KUNG FU PANDA",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147738",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-GENERTOX REX",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147740",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-FRUITS VEGETABLE RHYMES",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147741",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-FIVE LITTLE RHYMES",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147742",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-DUCK TALES HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147744",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-DUCK TALES CLASSIC",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147745",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-DORAEMON",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147746",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-COLOUR RHYMES HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147747",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-CHRISTMAS RHYMES",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147748",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-BEN 10 OMNIVERSE",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147749",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-ART-FUN",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147752",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-AVATAR THE LAST AIRBENDER HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147753",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-ANIMAL RHMYES",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147754",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-ABCD RHYMES HD 2",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147756",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-NURSER RHYMES HD 4",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147758",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-STORY",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147759",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-BABY TOOT",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147760",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-BIRTHDAY SONGS",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147761",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-HICKORY DICKORY DOCK",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147762",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-BOOM BUDDIES RHYMES HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147763",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-BABAY BAO PANDA HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147769",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-BABAY RHYMES HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147770",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-ANIMAL RHYMES HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147771",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-A B C D RHYMES HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147772",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-NUMBER RHMYES HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147774",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-BOB THE TRAIN HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147775",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-NURSERY RHYMES HD 2",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147776",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-MR BEAN HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147777",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-RHYMES HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147778",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-MASH AND BEAR HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147779",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-CHU CHU TV HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147780",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS-FINGER FAMILY HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/147781",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: DISNEY JUNIOR (MULTI AUDIO)",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/207676",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids: Toyor Aljana",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319403",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids:  SpaceToon TV",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319404",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids: Rotana Kids HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319405",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids:  Karamesh",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319406",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids:  OSN Kids Zone HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319407",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids: OSN Nickelodeon HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319409",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids:  HodHod  TV",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319411",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids:  Taha TV",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319412",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids: Majid Kids TV",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319413",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids:  Atfal & Mawaheb",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319415",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids | En: NickToons HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/319416",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS: ETV Bal Bharat HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/355286",
             "logo": "img/channels/BAL BHARAT.png",
             "status": "visible"
         },
         {
-            "name": "NICK.JR",
-            "category": "Kids",
-            "url": "http://198.195.239.50:8095/NICK.JR/index.m3u8",
-            "logo": "img/channels/NICK JR.png",
-            "status": "visible"
-        },
-        {
-            "name": "ZING.MUSIC",
-            "category": "Music",
-            "url": "http://198.195.239.50:8095/ZING.MUSIC/index.m3u8",
-            "logo": "img/channels/ZING.png",
-            "status": "visible"
-        },
-        {
-            "name": "NAGORIK.TV.HD",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8",
-            "logo": "img/channels/NAGORIK.png",
-            "status": "visible"
-        },
-        {
-            "name": "GAZI.TV.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8",
-            "logo": "img/channels/images__4_.png",
-            "status": "visible"
-        },
-        {
-            "name": "T-SPORTS-HD",
+            "name": "Unite8 Sports 1 HD",
             "category": "Sports",
-            "url": "http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8",
-            "logo": "img/channels/T SPORTS.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/741567",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "XPLOR.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/XPLOR.HD/index.m3u8",
-            "logo": "img/channels/images__5_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "TRAVELXP.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/TRAVELXP.HD/index.m3u8",
-            "logo": "img/channels/images__6_.png",
-            "status": "visible"
-        },
-        {
-            "name": "BBC.Earth.HD",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8",
-            "logo": "img/channels/BBC EARTH HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "DURANTA.TV.HD",
-            "category": "Kids",
-            "url": "http://198.195.239.50:8095/DURANTA.TV.HD/index.m3u8",
-            "logo": "img/channels/DURANTA TV.png",
-            "status": "visible"
-        },
-        {
-            "name": "SONY.SPORTS.4",
+            "name": "CRI: Star 4K",
             "category": "Sports",
-            "url": "http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8",
-            "logo": "img/channels/SONY SPORTS4 HD.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/333368",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "SONY.SPORTS.1HD",
+            "name": "IN: TEN 1 (4K).",
             "category": "Sports",
-            "url": "http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8",
-            "logo": "img/channels/images__6_.jpg",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98861",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "SUPER.HUNGAMA",
-            "category": "Kids",
-            "url": "http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8",
-            "logo": "img/channels/SUPER HUNGAMA.png",
-            "status": "visible"
-        },
-        {
-            "name": "JAMUNA.TV",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/JAMUNA.TV/index.m3u8",
-            "logo": "img/channels/JAMUNA TV.png",
-            "status": "visible"
-        },
-        {
-            "name": "INDEPENDENT.TV",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8",
-            "logo": "img/channels/INDEPENDENT TV.png",
-            "status": "visible"
-        },
-        {
-            "name": "MASRANGA.TV.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/MASRANGA.TV.HD/index.m3u8",
-            "logo": "img/channels/images__7_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "SOMOY.TV.HD",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8",
-            "logo": "img/channels/SOMOY TV.png",
-            "status": "visible"
-        },
-        {
-            "name": "ATN.BANGLA.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/ATN BANGLA.png",
-            "status": "visible"
-        },
-        {
-            "name": "CHANNEL.I.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8",
-            "logo": "img/channels/CHANNEL I.png",
-            "status": "visible"
-        },
-        {
-            "name": "CHANNEL.24.HD",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8",
-            "logo": "img/channels/CHANNEL 24.png",
-            "status": "visible"
-        },
-        {
-            "name": "MADANI.TV.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8",
-            "logo": "img/channels/MADANI TV HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "ENTER10.BANGLA",
-            "category": "Indian Bangla",
-            "url": "http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8",
-            "logo": "img/channels/images__8_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "ALJAZEERA.HD",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8",
-            "logo": "img/channels/images__7_.png",
-            "status": "visible"
-        },
-        {
-            "name": "PEACE.TV.BANGLA.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8",
-            "logo": "img/channels/PEACE TV BANGLA.png",
-            "status": "visible"
-        },
-        {
-            "name": "FAST.SPORTS.HD",
+            "name": "IN: TEN 2 (4K).",
             "category": "Sports",
-            "url": "http://198.195.239.50:8095/FAST.SPORTS.HD/index.m3u8",
-            "logo": "img/channels/FAST SPORTS HD.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98862",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "A.SPORTS.HD",
+            "name": "IN: TEN 3 (4K).",
             "category": "Sports",
-            "url": "http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8",
-            "logo": "img/channels/A SPORTS HD.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98863",
+            "logo": "",
             "status": "visible"
         },
         {
-            "name": "HUM.MASALA.TV",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/HUM.MASALA.TV/index.m3u8",
-            "logo": "img/channels/images__9_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "GEO.NEWS.HD",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/GEO.NEWS.HD/index.m3u8",
-            "logo": "img/channels/GEO NEWS HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "Lotus.TV.HD",
-            "category": "Bangla",
-            "url": "http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8",
-            "logo": "img/channels/LOTUS TV.png",
-            "status": "visible"
-        },
-        {
-            "name": "PTV-SPORTS-HD",
+            "name": "IN: STAR SPORTS 1 (4K).",
             "category": "Sports",
-            "url": "http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8",
-            "logo": "img/channels/PTV SPORTS HD.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98864",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
             "status": "visible"
         },
         {
-            "name": "SONY.YAY",
-            "category": "Kids",
-            "url": "http://198.195.239.50:8095/SONY.YAY/index.m3u8",
-            "logo": "img/channels/SONY YAY.png",
-            "status": "visible"
-        },
-        {
-            "name": "ATN.NEWS.HD",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8",
-            "logo": "img/channels/ATN NEWS.png",
-            "status": "visible"
-        },
-        {
-            "name": "AXN.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/AXN.HD/index.m3u8",
-            "logo": "img/channels/AXN HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.BHARAT.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/STAR.BHARAT.HD/index.m3u8",
-            "logo": "img/channels/STAR BHARAT HD.png",
-            "status": "visible"
-        },
-        {
-            "name": "DW.NEWS.HD",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/DW.NEWS.HD/index.m3u8",
-            "logo": "img/channels/images__8_.png",
-            "status": "visible"
-        },
-        {
-            "name": "NEWS.24",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/NEWS.24/index.m3u8",
-            "logo": "img/channels/images__10_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "UNITE8.2.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8",
-            "logo": "img/channels/images__9_.png",
-            "status": "visible"
-        },
-        {
-            "name": "UNITE8.1.HD",
-            "category": "Hindi",
-            "url": "http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8",
-            "logo": "img/channels/images__11_.jpg",
-            "status": "visible"
-        },
-        {
-            "name": "STAR.SPORTS.4K",
+            "name": "IN: STAR SPORTS 2 (4K).",
             "category": "Sports",
-            "url": "http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98865",
+            "logo": "img/channels/STAR SPORTS2 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "IN: STAR SPORTS 1 HINDI (4K).",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98866",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "IN: STAR SPORTS SELECT 1 (4K).",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98867",
             "logo": "img/channels/STAR 4K.png",
             "status": "visible"
         },
         {
-            "name": "9XM.MUSIC",
-            "category": "Music",
-            "url": "http://198.195.239.50:8095/9XM.MUSIC/index.m3u8",
-            "logo": "img/channels/9XM MUSIC.png",
-            "status": "visible"
-        },
-        {
-            "name": "SANGEET.BANGLA",
-            "category": "Music",
-            "url": "http://198.195.239.50:8095/SANGEET.BANGLA/index.m3u8",
-            "logo": "img/channels/SANGEET BANGLA.png",
-            "status": "visible"
-        },
-        {
-            "name": "BBC.NEWS",
-            "category": "News",
-            "url": "http://198.195.239.50:8095/BBC.NEWS/index.m3u8",
-            "logo": "img/channels/BBC NEWS.png",
-            "status": "visible"
-        },
-        {
-            "name": "MTV.INDIA",
-            "category": "Music",
-            "url": "http://198.195.239.50:8095/MTV.INDIA/index.m3u8",
-            "logo": "img/channels/MTV India.png",
-            "status": "visible"
-        },
-        {
-            "name": "MUSIC.INDIA",
-            "category": "Music",
-            "url": "http://198.195.239.50:8095/MUSIC.INDIA/index.m3u8",
-            "logo": "img/channels/Music India.png",
-            "status": "visible"
-        },
-        {
-            "name": "LOVE.NATURE",
-            "category": "Documentary",
-            "url": "http://198.195.239.50:8095/LOVE.NATURE/index.m3u8",
-            "logo": "img/channels/LOVE NATURE.png",
-            "status": "visible"
-        },
-        {
-            "name": "GOLF.SPORTS",
+            "name": "IN: START SPORTS SELECT 2 (4K).",
             "category": "Sports",
-            "url": "http://198.195.239.50:8095/GOLF.SPORTS/index.m3u8",
-            "logo": "img/channels/GOLF SPORTS.png",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98868",
+            "logo": "img/channels/T SPORTS.png",
+            "status": "visible"
+        },
+        {
+            "name": "IN: SONY TEN 5 (4K).",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98870",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: ZEE BANGLA (4K).",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98881",
+            "logo": "img/channels/ZEE BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: COLORS BANGLA (4K).",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98882",
+            "logo": "img/channels/COLORS BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: STAR JALSHA (4K).",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98883",
+            "logo": "img/channels/STAR JALSHA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: JALSHA MOVIES (4K).",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98884",
+            "logo": "img/channels/JALSHA MOVIES HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 2 TAMIL ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/379753",
+            "logo": "img/channels/STAR SPORTS2 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 2 TELUGU ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/379755",
+            "logo": "img/channels/STAR SPORTS2 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 1 KANNADA ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/380977",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS FIRST",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/394272",
+            "logo": "img/channels/STAR 4K.png",
+            "status": "visible"
+        },
+        {
+            "name": "Hub Sports 4 FHD",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/196347",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || FAST SPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/87460",
+            "logo": "img/channels/FAST SPORTS HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || TEN CRICKET",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/514856",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS KHEL",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/612020",
+            "logo": "img/channels/STAR 4K.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SONY SPORTS 4 TELUGU",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/635098",
+            "logo": "img/channels/SONY SPORTS4 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Nagorik Tv HD",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3802",
+            "logo": "img/channels/NAGORIK.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Color Bangla Cinema",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/271038",
+            "logo": "img/channels/COLORS BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: 24 Ghanta SD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/355540",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Republic Bangla",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/376278",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: MOVIE BANGLA",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/510520",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "UK: Cbeebies",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/26",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "USA: Nickelodeon",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/37",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "USA: NICK JR",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/38",
+            "logo": "img/channels/NICK JR.png",
+            "status": "visible"
+        },
+        {
+            "name": "USA: Boomerang",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/45",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "USA: DISNEY JR HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/49",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Sony_Yay_Hindi",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/204",
+            "logo": "img/channels/SONY YAY.png",
+            "status": "visible"
+        },
+        {
+            "name": "IN:  Nick_Hindi",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/205",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Nick_Junior",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/206",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: sonic_Hindi",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/207",
+            "logo": "img/channels/SONIC.png",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Discovery_Kids_1",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/208",
+            "logo": "img/channels/DISCOVERY KIDS.png",
+            "status": "visible"
+        },
+        {
+            "name": "UK:Nickelodeon",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/269",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "UK : NICK JR",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/561",
+            "logo": "img/channels/NICK JR.png",
+            "status": "visible"
+        },
+        {
+            "name": "US: Cartoon Network",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/951",
+            "logo": "img/channels/CARTOON NETWORK.png",
+            "status": "visible"
+        },
+        {
+            "name": "UK : CARTOON NETWORK HD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1066",
+            "logo": "img/channels/CARTOON NETWORK.png",
+            "status": "visible"
+        },
+        {
+            "name": "UK : BOOMERANG",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1067",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "UK : DISNEY JR",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1068",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "UK : BABY TV",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1069",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "PT : Baby TV",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1653",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Pogo_Hindi",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1918",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: POGO (ENGLISH)",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/7220",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Nick+ FHD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/7438",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids: PAW Patrol FHD",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/18455",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Kids: Hungama",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/18456",
+            "logo": "img/channels/HUNGAMA.png",
+            "status": "visible"
+        },
+        {
+            "name": "Kids: Nick Pakistan",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/18457",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Disney Channel (4K)",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/19741",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: DISNEY INTERNATIONAL (4K)",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/20925",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Disney Junior",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/35713",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "KIDS: SUPER HUNGAMA",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/66162",
+            "logo": "img/channels/SUPER HUNGAMA.png",
+            "status": "visible"
+        },
+        {
+            "name": "TAMIL: NICK",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/66163",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "TAMIL: DISCOVERY KIDS",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/66164",
+            "logo": "img/channels/DISCOVERY KIDS.png",
+            "status": "visible"
+        },
+        {
+            "name": "TAMIL: POGO",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/66165",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: NICK (4K).",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98880",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: CN HD + (4K)",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/117177",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "Malayalam: Nicklodean Sonic",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/127762",
+            "logo": "img/channels/SONIC.png",
+            "status": "visible"
+        },
+        {
+            "name": "UK : TINY POP",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/144123",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN | SHEMAROO JOSH",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/784654",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN | MOTU PATTLO 24x7",
+            "category": "Kids",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/784655",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Colors_Bengali_HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/183",
+            "logo": "img/channels/COLORS HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD : Star Jalsa HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/198",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_BOISAKHI HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/390",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_CHANNEL 24 HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/391",
+            "logo": "img/channels/CHANNEL 24.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Channel I UK",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/392",
+            "logo": "img/channels/CHANNEL I.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Channel S",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/393",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_DESH TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/394",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Aakaash Aath",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/396",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_MOHONA TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/397",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_MY TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/398",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_AnandaTV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/399",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_RTV HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/401",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_BANGLA TIMES",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/402",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_RPlusGold",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/403",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_DHOOM MUSIC",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/404",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Sangeet Bangali",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/405",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Discovery_Channel_Bengali",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/406",
+            "logo": "img/channels/DISCOVERY HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Bijoy Tv",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/408",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Rupashi bangla",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/409",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_ZEE CINMEA Bangali",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/410",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Nexus TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/411",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Songsad TV FHD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/413",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_DESHITV HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/414",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_DBC HD",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/420",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Jamuna TV",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/421",
+            "logo": "img/channels/JAMUNA TV.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Somoy TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/422",
+            "logo": "img/channels/SOMOY TV.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Independent TV",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/423",
+            "logo": "img/channels/INDEPENDENT TV.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD_NTV Bangla HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/424",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: STAR JALSHA MOVIES FHD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/425",
+            "logo": "img/channels/JALSHA MOVIES HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: BANGLA VISION",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/426",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: ATN NEWS HD",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/427",
+            "logo": "img/channels/ATN NEWS.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD:Ekattor tv",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/428",
+            "logo": "img/channels/EKATTOR_TV.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: BOISAKHI HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/429",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: ASIAN TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/430",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: ATN BANGLA",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/431",
+            "logo": "img/channels/ATN BANGLA.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Duronto TV HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/433",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD_Channel 9 HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/434",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: ZEE BANGLA HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/435",
+            "logo": "img/channels/ZEE BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Gazi TV HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/767",
+            "logo": "img/channels/images__4_.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD : BTV NEWS",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/998",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: iTV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/999",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD : NRB TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1000",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Deepto",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1034",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: TIMES24 TV FHD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1035",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Maasranga TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1036",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD:DEEPTO TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1331",
+            "logo": "img/channels/DEEPTO.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: TIME TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2882",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: DESHE BIDESHE",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2883",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: TV9Bangla",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2885",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD : SUN Bangla (4K)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3753",
+            "logo": "img/channels/SUN BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: RTV Music",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3799",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: ATN Bangla uk",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3800",
+            "logo": "img/channels/ATN BANGLA.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: enter 10 bangla HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3801",
+            "logo": "img/channels/ENTERR 10 BANGLA.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Bangla Tv",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3803",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Tv9 bangla",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3804",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD : KHUSHBOO TV HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3808",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: News 24 Tv",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3810",
+            "logo": "img/channels/images__10_.jpg",
+            "status": "visible"
+        },
+        {
+            "name": "BD : News 18 Bangla",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3811",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD : ETV TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3813",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: SA Tv",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3814",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Sristy_TV",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3817",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD : BTvChattogram",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3818",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: calcutta News",
+            "category": "News",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/3819",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: DD Bangla",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4049",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: SONY Aath",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4083",
+            "logo": "img/channels/SONY AATH.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: GlobalTv_HD",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4231",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: ABP Ananda",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/5436",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Star Jalsa (HD)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/8540",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Travelxp HD (BANGLA)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/20622",
+            "logo": "img/channels/TRAVEL XP.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Star Jalsha (FHD)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23218",
+            "logo": "img/channels/STAR JALSHA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: JALSHA MOVIES (FHD)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23304",
+            "logo": "img/channels/JALSHA MOVIES HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: ZEE BANGLA (FHD)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23305",
+            "logo": "img/channels/ZEE BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: COLORS BANGLA (FHD)",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23306",
+            "logo": "img/channels/COLORS BANGLA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: CHANNEL I",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/34665",
+            "logo": "img/channels/CHANNEL I.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: ZEE BANGLA CINEMA",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/49615",
+            "logo": "img/channels/ZEE BANGLA CINEMA.png",
+            "status": "visible"
+        },
+        {
+            "name": "BD: Zee24Ghanta",
+            "category": "Bangla",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/144510",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || TNT SPORTS 1 ᶠᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/186627",
+            "logo": "img/channels/T SPORTS.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || PTV SPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/89",
+            "logo": "img/channels/PTV SPORTS HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRI: SONY ESPN HD",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/155",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SONY SPORTS 5 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/176",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || EUROSPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/216",
+            "logo": "img/channels/EUROSPORTS HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || RTA SPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1039",
+            "logo": "img/channels/A SPORTS HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 3 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1080",
+            "logo": "img/channels/STAR SPORTS3.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || ASTRO CRICKET ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2494",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 1 ENG ᶠᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9397",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 2 ENGLISH ᶠᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9398",
+            "logo": "img/channels/STAR SPORTS2 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 1 HINDI ᶠᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9399",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9722",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || T SPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/18452",
+            "logo": "img/channels/T SPORTS.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SKY SPORTS CRIC ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23566",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || WILLOW SPORTS Cricbuzz ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23943",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SKY SPORT 3 ᶠᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/24018",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SONY SPORTS 2 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/31314",
+            "logo": "img/channels/SONY SPORTS2 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || A SPORTS ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/43447",
+            "logo": "img/channels/A SPORTS HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || PTV SPORTS ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/61674",
+            "logo": "img/channels/PTV SPORTS HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SKY SPORTS CRIC ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/114479",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SKY SPORTS CRIC ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/124269",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 1 ENG ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/124281",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 2 ENGLISH ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/124284",
+            "logo": "img/channels/STAR SPORTS2 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 1 HINDI ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/124287",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || T SPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/130714",
+            "logo": "img/channels/T SPORTS.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SKY SPORT 1 ᶠᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/150854",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SUPERSPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/158442",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/177843",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Star Sports Select 1 (FHD)",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9400",
+            "logo": "img/channels/STAR 4K.png",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Star Sports Select 2 (FHD)",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9401",
+            "logo": "img/channels/STAR 4K.png",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Sony Ten 1 (FHD)",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9402",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Sony Ten 3 (FHD)",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9404",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: EUROSPORTS (4K)",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/23308",
+            "logo": "img/channels/EUROSPORTS HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "IN:  DD Sports (4K)",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/4044",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || WILLOW 2 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/5040",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || GEO SUPER ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/101",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || TNT SPORTS 3 ᶠᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/148090",
+            "logo": "img/channels/T SPORTS.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || T SPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/113069",
+            "logo": "img/channels/T SPORTS.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SONY SPORTS 1 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/154",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SONY SPORTS 3 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/146",
+            "logo": "img/channels/SONY SPORTS3 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SONY SPORTS 4 TAMIL",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/29469",
+            "logo": "img/channels/SONY SPORTS4 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "IN: Sony Ten 2 (4K)",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9403",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "IN: SONY TEN 5 (FHD)",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/17565",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS SELECT 1 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/238",
+            "logo": "img/channels/STAR 4K.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS SELECT 2 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/148801",
+            "logo": "img/channels/STAR 4K.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 1 HINDI ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/211",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 1 ENG ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/148",
+            "logo": "img/channels/STAR SPORTS1 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/239",
+            "logo": "img/channels/STAR SPORTS2 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || A SPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/43444",
+            "logo": "img/channels/A SPORTS HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || STAR SPORTS 2 HINDI ᶠᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/213049",
+            "logo": "img/channels/STAR SPORTS2 HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || WILLOW SPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/215",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SKY SPORTS CRIC ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/12",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || FOX CRIC 501 ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/1856",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || TEN SPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/98",
+            "logo": "",
+            "status": "visible"
+        },
+        {
+            "name": "CRIC || SUPERSPORTS ᴴᴰ",
+            "category": "Sports",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/2496",
+            "logo": "",
             "status": "visible"
         }
     ]
