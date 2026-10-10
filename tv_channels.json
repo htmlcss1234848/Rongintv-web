@@ -511,6 +511,97 @@
             "logo": "img/channels/SONIC.png",
             "status": "visible"
         },
+                {
+            "name": "STAR GOLD HD",
+            "category": "Movies",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/194",
+            "logo": "img/channels/STAR GOLD HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "STAR GOLD SELECT HD",
+            "category": "Movies",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/210",
+            "logo": "img/channels/STAR GOLD SELECT HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "ZEE CINEMA HD",
+            "category": "Movies",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/230",
+            "logo": "img/channels/ZEE CINEMA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "& PICTURES HD",
+            "category": "Movies",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/231",
+            "logo": "img/channels/AND PICTURES HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "CINEPLEX HD",
+            "category": "Movies",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/867",
+            "logo": "img/channels/CINEPLEX HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "Zing TV",
+            "category": "Movies",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/970",
+            "logo": "img/channels/ZING TV.png",
+            "status": "visible"
+        },
+        {
+            "name": "9XM",
+            "category": "Music",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/7255",
+            "logo": "img/channels/9XM.png",
+            "status": "visible"
+        },
+        {
+            "name": "B4U Music",
+            "category": "Music",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/7258",
+            "logo": "img/channels/B4U MUSIC.png",
+            "status": "visible"
+        },
+        {
+            "name": "9X Jalwa HD",
+            "category": "Music",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9057",
+            "logo": "img/channels/9X JALWA HD.png",
+            "status": "visible"
+        },
+        {
+            "name": "SONY MAX FHD",
+            "category": "Movies",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9373",
+            "logo": "img/channels/SONY MAX FHD.png",
+            "status": "visible"
+        },
+        {
+            "name": "Star GOLD FHD",
+            "category": "Movies",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9375",
+            "logo": "img/channels/STAR GOLD FHD.png",
+            "status": "visible"
+        },
+        {
+            "name": "Star Gold SELECT FHD",
+            "category": "Movies",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9376",
+            "logo": "img/channels/STAR GOLD SELECT FHD.png",
+            "status": "visible"
+        },
+        {
+            "name": "Colors Cineplex FHD",
+            "category": "Movies",
+            "url": "https://rough-frog-30e2.rongintv.workers.dev/ch/9378",
+            "logo": "img/channels/COLORS CINEPLEX FHD.png",
+            "status": "visible"
+        },
         {
             "name": "PTV SPORTS ᴴᴰ",
             "category": "Sports",
